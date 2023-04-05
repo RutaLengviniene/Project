@@ -13,5 +13,5 @@ class Post extends Model
         'excerpt',
         'content',
         'image',
-    ]
+    ];
 }
